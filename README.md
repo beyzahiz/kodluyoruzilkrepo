@@ -7,4 +7,7 @@ Kodluyoruz Front-End Eğitimi kapsamında açtığım ilk repo
 # Usage
 Projeyi cloneladıktan sonra Visual Studio Code ile açın
 
+# Kodluyoruz Logosu
 ![Kodluyoruz Logo](https://raw.githubusercontent.com/Kodluyoruz/taskforce/git/git/markdown-nedir-nasil-kullaniriz-/figures/kodluyoruz_logo.jpg)
+
+
